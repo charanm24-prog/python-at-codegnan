@@ -1,2 +1,2 @@
 print("this is charan")
-print("i am larning python language")
+print("i am learning python language")

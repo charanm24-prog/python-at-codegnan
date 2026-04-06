@@ -54,4 +54,14 @@ elif m>=50 and m<=59:
 
 elif m>40:
     print("Grade F")
+    
+# check number divisible by 3 and 5
+
+num = int(input("Enter a number: "))
+
+if num%3==0 and num%5:
+    print("The number is divisible ")
+    
+else:
+    print("The number is even")
 
